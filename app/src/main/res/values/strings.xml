@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Time</string>
+    <string name="showCircule">SHOW CIRCULE</string>
+    <string name="hideCircule">HIDE CIRCULE</string>
+    <string name="showLinear">SHOW LINEAR</string>
+    <string name="hideLinear">HIDE LINEAR</string>
+
+
+</resources>
